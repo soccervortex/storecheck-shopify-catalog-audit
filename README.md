@@ -1,63 +1,71 @@
-# StoreCheck — Shopify product catalog audit
+# StoreCheck — Shopify catalog health audit
 
-[StoreCheck](https://getstorecheck.eu) is a review-first product catalog auditor for Shopify merchants. It helps merchants find catalog-quality issues before cleanup work turns into risky bulk editing.
+[![StoreCheck — Shopify catalog audit product tour](assets/promo/StoreCheck-Video-Social-Preview.png)](https://soccervortex.github.io/storecheck-shopify-catalog-audit/)
 
-**Live product:** https://getstorecheck.eu  
-**Interactive demo:** https://getstorecheck.eu/demo  
-**Product audit guide:** https://getstorecheck.eu/shopify-product-audit  
-**Free audit checklist:** https://getstorecheck.eu/shopify-product-audit-checklist
+**[Open StoreCheck](https://getstorecheck.eu)** · **[Try the interactive demo](https://getstorecheck.eu/demo)** · **[Watch the 27-second product tour](https://soccervortex.github.io/storecheck-shopify-catalog-audit/)** · **[Download Promo Kit v1.1](https://github.com/soccervortex/storecheck-shopify-catalog-audit/releases/tag/promo-kit-v1.1)**
 
-## 27-second product tour
+StoreCheck is a review-first Shopify catalog auditor. It turns product data into an explainable health score, seven category scores, severity-ranked findings, affected products, evidence, and fix guidance without silently writing changes back to a connected store.
 
-[![Watch the StoreCheck 27-second Shopify catalog audit tour](assets/promo/StoreCheck-TikTok-Cover.png)](https://soccervortex.github.io/storecheck-shopify-catalog-audit/)
+## What you can audit
 
-**[Watch the vertical product tour](https://soccervortex.github.io/storecheck-shopify-catalog-audit/)** · **[Download the promo kit](https://github.com/soccervortex/storecheck-shopify-catalog-audit/releases/tag/promo-kit-v1)**
+StoreCheck checks catalog quality across seven areas:
 
-The 9:16 tour uses real StoreCheck product screens to show the catalog health score, category breakdowns, explainable findings, read-only Shopify connection, CSV workflow, and review-first cleanup approach.
+| Area | Examples |
+| --- | --- |
+| **Technical** | handles, SKUs, variant structure, duplicate identifiers |
+| **Pricing** | invalid values, compare-at pricing, sibling price gaps |
+| **Inventory** | tracked quantities, negative stock, policy consistency |
+| **Images** | missing media, invalid URLs, alt-text gaps, suspicious reuse |
+| **Content** | missing/thin titles and descriptions, duplicate or highly similar copy |
+| **SEO** | missing, duplicate, unusually short or long SEO titles/descriptions |
+| **Organization** | vendors, product types, tags, casing and formatting drift |
+
+Merchants can either connect an owned Shopify store for a **read-only live scan** or upload a Shopify product CSV.
+
+## 27-second product tour — caption-refined v1.1
+
+[![Watch the StoreCheck 27-second product tour](assets/promo/StoreCheck-TikTok-Cover.png)](https://soccervortex.github.io/storecheck-shopify-catalog-audit/)
+
+The current promo master uses short phrase-level captions synchronized from the same voice-over word boundaries, positioned in a compact top-safe strip so the StoreCheck UI remains visible.
+
+**[Watch the tour](https://soccervortex.github.io/storecheck-shopify-catalog-audit/)** · **[Promo Kit v1.1](https://github.com/soccervortex/storecheck-shopify-catalog-audit/releases/tag/promo-kit-v1.1)**
+
+## Product screens
+
+### Catalog health overview
 
 ![StoreCheck catalog health overview](assets/catalog-health-overview.png)
 
-## What StoreCheck checks
-
-StoreCheck groups explainable findings across seven areas:
-
-- product structure, handles, SKUs, and variants
-- titles and product descriptions
-- product images and alt text
-- pricing and compare-at pricing
-- inventory data and configuration
-- product SEO titles and meta descriptions
-- vendors, product types, and tags
-
-Merchants can connect an owned Shopify store for a live **read-only** catalog scan or upload a Shopify product CSV. Findings include severity, affected products, evidence, and Shopify-specific fix guidance.
-
-## Review-first by design
-
-StoreCheck is intentionally conservative about automation. A connected-store audit does not write product changes through the Shopify Admin API. Ambiguous pricing, inventory, classification, and content decisions remain merchant review items.
-
-The deterministic safe CSV cleanup path is deliberately narrow: it only handles proven duplicate/empty tag hygiene cases, verifies the exact source CSV by SHA-256 fingerprint, and reparses/rescans the candidate output before download.
-
-## Screenshots
-
-### Category scores
+### Seven category scores
 
 ![StoreCheck category score view](assets/category-scores.png)
 
-### Action guidance
+### Explainable action guidance
 
 ![StoreCheck issue action guidance](assets/action-guidance.png)
 
-## Useful Shopify catalog resources
+## Review-first by design
+
+Connected-store scans are read-only. StoreCheck does not silently update Shopify products through the Admin API.
+
+The deterministic safe CSV cleanup path is deliberately narrow: it only handles proven duplicate/empty tag hygiene, verifies the exact source CSV, preserves product boundaries, and reparses/rescans the candidate output before download. Pricing, inventory, classification, identifiers, and merchant-specific content decisions remain review-first.
+
+## Current Shopify catalog guides
 
 - [Shopify product audit](https://getstorecheck.eu/shopify-product-audit)
 - [Shopify product audit checklist](https://getstorecheck.eu/shopify-product-audit-checklist)
-- [Shopify product SEO audit](https://getstorecheck.eu/shopify-seo-audit)
+- [Shopify CSV audit](https://getstorecheck.eu/shopify-csv-audit)
+- [Find duplicate Shopify SKUs](https://getstorecheck.eu/shopify-duplicate-skus)
+- [Shopify product image and alt-text audit](https://getstorecheck.eu/shopify-product-image-audit)
+- [Shopify SEO title and meta-description audit](https://getstorecheck.eu/shopify-seo-title-meta-audit)
+- [Clean Shopify tags, vendors and product types](https://getstorecheck.eu/shopify-tags-vendors-product-types)
+- [Shopify SEO audit](https://getstorecheck.eu/shopify-seo-audit)
 - [Shopify catalog cleanup](https://getstorecheck.eu/shopify-catalog-cleanup)
-- [Privacy](https://getstorecheck.eu/privacy)
+- [StoreCheck privacy](https://getstorecheck.eu/privacy)
 - [Contact / support](https://getstorecheck.eu/contact)
 
 ## Repository scope
 
-This is the public StoreCheck product showcase. The application source code, production configuration, credentials, and private operational material are intentionally not published here.
+This repository is the public StoreCheck product showcase and promotional asset host. The application source code, production configuration, credentials, and private operational material are intentionally not published here.
 
 Shopify is a trademark of Shopify Inc. StoreCheck is an independent product and is not endorsed by Shopify Inc.
