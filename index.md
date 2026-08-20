@@ -1,3 +1,9 @@
+---
+title: StoreCheck — Shopify catalog health, made reviewable
+description: Review-first Shopify catalog auditing with health scoring, seven category scores, explainable findings, read-only live scans, CSV workflows, and merchant-safe cleanup guidance.
+image: /storecheck-shopify-catalog-audit/assets/promo/StoreCheck-Video-Social-Preview.png
+---
+
 # StoreCheck — Shopify catalog health, made reviewable
 
 <div style="text-align:center;margin:1.2rem 0 1.6rem">
@@ -42,6 +48,24 @@
   "duration": "PT27.2S",
   "contentUrl": "https://soccervortex.github.io/storecheck-shopify-catalog-audit/assets/promo/StoreCheck-TikTok-Master.mp4?caption-v=2",
   "embedUrl": "https://soccervortex.github.io/storecheck-shopify-catalog-audit/"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "StoreCheck",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web",
+  "url": "https://getstorecheck.eu/",
+  "description": "Review-first Shopify catalog auditing with health scoring, seven category scores, explainable findings, read-only live scans, CSV workflows, and merchant-safe cleanup guidance.",
+  "featureList": [
+    "Read-only Shopify catalog scans",
+    "Shopify product CSV audits",
+    "Seven catalog health categories",
+    "Severity-ranked explainable findings",
+    "Before-and-after cleanup verification"
+  ]
 }
 </script>
 

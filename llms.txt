@@ -7,6 +7,14 @@
 - StoreCheck: https://getstorecheck.eu/
 - Shopify product audit: https://getstorecheck.eu/shopify-product-audit
 - Product audit checklist: https://getstorecheck.eu/shopify-product-audit-checklist
+- StoreCheck video tour: https://getstorecheck.eu/shopify-catalog-audit-video
+- Shopify CSV audit: https://getstorecheck.eu/shopify-csv-audit
+- Duplicate Shopify SKU guide: https://getstorecheck.eu/shopify-duplicate-skus
+- Shopify product image audit: https://getstorecheck.eu/shopify-product-image-audit
+- Shopify SEO title and meta-description audit: https://getstorecheck.eu/shopify-seo-title-meta-audit
+- Shopify tags, vendors, and product-types cleanup: https://getstorecheck.eu/shopify-tags-vendors-product-types
+- Shopify catalog health scorecard: https://getstorecheck.eu/shopify-catalog-health
+- Shopify catalog cleanup verification: https://getstorecheck.eu/shopify-catalog-cleanup-verification
 - Shopify product SEO audit: https://getstorecheck.eu/shopify-seo-audit
 - Shopify catalog cleanup guide: https://getstorecheck.eu/shopify-catalog-cleanup
 - Interactive demo: https://getstorecheck.eu/demo
