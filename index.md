@@ -1,7 +1,7 @@
 ---
 title: StoreCheck — Shopify catalog health, made reviewable
 description: Review-first Shopify catalog auditing with health scoring, seven category scores, explainable findings, read-only live scans, CSV workflows, and merchant-safe cleanup guidance.
-image: /storecheck-shopify-catalog-audit/assets/promo/StoreCheck-Video-Social-Preview.png
+image: /assets/promo/StoreCheck-Video-Social-Preview.png
 ---
 
 # StoreCheck — Shopify catalog health, made reviewable
