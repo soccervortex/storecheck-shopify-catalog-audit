@@ -1,0 +1,20 @@
+# StoreCheck public showcase
+
+> StoreCheck is a review-first Shopify product catalog audit tool. The canonical product site is https://getstorecheck.eu/.
+
+## Canonical resources
+
+- StoreCheck: https://getstorecheck.eu/
+- Shopify product audit: https://getstorecheck.eu/shopify-product-audit
+- Product audit checklist: https://getstorecheck.eu/shopify-product-audit-checklist
+- Shopify product SEO audit: https://getstorecheck.eu/shopify-seo-audit
+- Shopify catalog cleanup guide: https://getstorecheck.eu/shopify-catalog-cleanup
+- Interactive demo: https://getstorecheck.eu/demo
+- Canonical machine-readable guide: https://getstorecheck.eu/llms.txt
+
+## Scope
+
+- Connected Shopify scans are read-only.
+- StoreCheck reports explainable catalog-quality findings and merchant review guidance.
+- It does not claim to replace a full technical storefront crawl, backlink audit, indexation audit, or Core Web Vitals test.
+- StoreCheck is independent and is not endorsed by Shopify Inc.
