@@ -59,8 +59,10 @@ The deterministic safe CSV cleanup path is deliberately narrow: it only handles 
 - [Shopify product image and alt-text audit](https://getstorecheck.eu/shopify-product-image-audit)
 - [Shopify SEO title and meta-description audit](https://getstorecheck.eu/shopify-seo-title-meta-audit)
 - [Clean Shopify tags, vendors and product types](https://getstorecheck.eu/shopify-tags-vendors-product-types)
+- [Shopify catalog health scorecard](https://getstorecheck.eu/shopify-catalog-health)
 - [Shopify SEO audit](https://getstorecheck.eu/shopify-seo-audit)
 - [Shopify catalog cleanup](https://getstorecheck.eu/shopify-catalog-cleanup)
+- [Verify Shopify catalog cleanup before and after](https://getstorecheck.eu/shopify-catalog-cleanup-verification)
 - [StoreCheck privacy](https://getstorecheck.eu/privacy)
 - [Contact / support](https://getstorecheck.eu/contact)
 

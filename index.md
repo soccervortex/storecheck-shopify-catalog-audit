@@ -92,8 +92,10 @@ StoreCheck separates deterministic data hygiene from merchant decisions. Duplica
 - [Product image and alt-text audit](https://getstorecheck.eu/shopify-product-image-audit)
 - [SEO title and meta-description audit](https://getstorecheck.eu/shopify-seo-title-meta-audit)
 - [Tags, vendors and product-types cleanup](https://getstorecheck.eu/shopify-tags-vendors-product-types)
+- [Shopify catalog health scorecard](https://getstorecheck.eu/shopify-catalog-health)
 - [Shopify SEO audit](https://getstorecheck.eu/shopify-seo-audit)
 - [Shopify catalog cleanup](https://getstorecheck.eu/shopify-catalog-cleanup)
+- [Verify Shopify catalog cleanup before and after](https://getstorecheck.eu/shopify-catalog-cleanup-verification)
 
 <p style="text-align:center;margin:2.2rem 0 1rem">
   <a href="https://getstorecheck.eu" style="display:inline-block;padding:.9rem 1.25rem;border-radius:9px;background:#159957;color:#fff;font-weight:700;text-decoration:none">Audit your Shopify catalog →</a>
