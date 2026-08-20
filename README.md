@@ -7,6 +7,14 @@
 **Product audit guide:** https://getstorecheck.eu/shopify-product-audit  
 **Free audit checklist:** https://getstorecheck.eu/shopify-product-audit-checklist
 
+## 27-second product tour
+
+[![Watch the StoreCheck 27-second Shopify catalog audit tour](assets/promo/StoreCheck-TikTok-Cover.png)](https://soccervortex.github.io/storecheck-shopify-catalog-audit/)
+
+**[Watch the vertical product tour](https://soccervortex.github.io/storecheck-shopify-catalog-audit/)** · **[Download the promo kit](https://github.com/soccervortex/storecheck-shopify-catalog-audit/releases/tag/promo-kit-v1)**
+
+The 9:16 tour uses real StoreCheck product screens to show the catalog health score, category breakdowns, explainable findings, read-only Shopify connection, CSV workflow, and review-first cleanup approach.
+
 ![StoreCheck catalog health overview](assets/catalog-health-overview.png)
 
 ## What StoreCheck checks
