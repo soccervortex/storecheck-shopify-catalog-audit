@@ -28,7 +28,7 @@ Merchants can either connect an owned Shopify store for a **read-only live scan*
 
 The current promo master uses short phrase-level captions synchronized from the same voice-over word boundaries, positioned in a compact top-safe strip so the StoreCheck UI remains visible.
 
-**[Watch the tour](https://soccervortex.github.io/storecheck-shopify-catalog-audit/)** · **[Promo Kit v1.1](https://github.com/soccervortex/storecheck-shopify-catalog-audit/releases/tag/promo-kit-v1.1)**
+**[Watch the tour](https://soccervortex.github.io/storecheck-shopify-catalog-audit/)** · **[Watch on TikTok](https://www.tiktok.com/@getstorecheck/video/7676250181284777248)** · **[Watch on X](https://x.com/skinvaults/status/2090575900727193947)** · **[Promo Kit v1.1](https://github.com/soccervortex/storecheck-shopify-catalog-audit/releases/tag/promo-kit-v1.1)**
 
 ## Product screens
 

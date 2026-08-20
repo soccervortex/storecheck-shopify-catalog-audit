@@ -33,6 +33,7 @@ image: /assets/promo/StoreCheck-Video-Social-Preview.png
     <h3 style="margin-top:.2rem">Caption-refined v1.1</h3>
     <p>The current master keeps the product UI visible: 18 short phrase-level captions, no overlapping cues, no large subtitle box, and a compact top-safe placement.</p>
     <p>The tour shows the real StoreCheck workflow: catalog health score, category breakdowns, explainable findings, read-only Shopify connection, CSV upload, and review-first cleanup.</p>
+    <p><strong><a href="https://www.tiktok.com/@getstorecheck/video/7676250181284777248">Watch on TikTok →</a></strong> · <strong><a href="https://x.com/skinvaults/status/2090575900727193947">Watch on X →</a></strong></p>
     <p><strong><a href="https://github.com/soccervortex/storecheck-shopify-catalog-audit/releases/tag/promo-kit-v1.1">Download the full Promo Kit v1.1 →</a></strong></p>
   </div>
 </div>
@@ -47,7 +48,11 @@ image: /assets/promo/StoreCheck-Video-Social-Preview.png
   "uploadDate": "2026-08-20",
   "duration": "PT27.2S",
   "contentUrl": "https://soccervortex.github.io/storecheck-shopify-catalog-audit/assets/promo/StoreCheck-TikTok-Master.mp4?caption-v=2",
-  "embedUrl": "https://soccervortex.github.io/storecheck-shopify-catalog-audit/"
+  "embedUrl": "https://soccervortex.github.io/storecheck-shopify-catalog-audit/",
+  "sameAs": [
+    "https://www.tiktok.com/@getstorecheck/video/7676250181284777248",
+    "https://x.com/skinvaults/status/2090575900727193947"
+  ]
 }
 </script>
 <script type="application/ld+json">
