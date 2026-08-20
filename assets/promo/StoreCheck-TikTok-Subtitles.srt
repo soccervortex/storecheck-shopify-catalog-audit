@@ -1,0 +1,40 @@
+1
+00:00:00,050 --> 00:00:03,900
+Your Shopify catalog can look fine and still hide costly problems.
+
+2
+00:00:03,900 --> 00:00:05,196
+Duplicate tags.
+
+3
+00:00:05,196 --> 00:00:06,458
+Missing alt text.
+
+4
+00:00:06,458 --> 00:00:07,488
+Weak SEO.
+
+5
+00:00:07,488 --> 00:00:09,583
+Pricing and inventory issues.
+
+6
+00:00:09,583 --> 00:00:16,747
+StoreCheck scans your catalog and turns the mess into a clear health score, category breakdowns, and explainable fixes.
+
+7
+00:00:16,747 --> 00:00:20,324
+Connect Shopify read-only, or upload a product CSV.
+
+8
+00:00:20,324 --> 00:00:21,469
+Review first.
+
+9
+00:00:21,469 --> 00:00:22,789
+Fix with confidence.
+
+10
+00:00:22,789 --> 00:00:25,729
+Run your catalog audit at getstorecheck dot E U.
+

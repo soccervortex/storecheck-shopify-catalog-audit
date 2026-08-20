@@ -4,6 +4,29 @@ A large Shopify catalog can accumulate small data-quality problems that are hard
 
 [Open the full StoreCheck checklist →](https://getstorecheck.eu/shopify-product-audit-checklist)
 
+## StoreCheck in 27 seconds
+
+<video controls playsinline preload="metadata" poster="assets/promo/StoreCheck-TikTok-Cover.png" style="width:100%;max-width:430px;border-radius:18px;background:#07120e">
+  <source src="assets/promo/StoreCheck-TikTok-Master.mp4" type="video/mp4">
+  StoreCheck catalog audit promo video.
+</video>
+
+A quick look at StoreCheck's review-first workflow: identify catalog issues, understand category scores and guidance, then choose what to fix. Connected Shopify scans are read-only; CSV upload is also supported.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "StoreCheck Shopify catalog audit in 27 seconds",
+  "description": "A 27-second overview of StoreCheck's read-only Shopify catalog audit and CSV workflow, with health scoring, category breakdowns and explainable guidance.",
+  "thumbnailUrl": "https://soccervortex.github.io/storecheck-shopify-catalog-audit/assets/promo/StoreCheck-TikTok-Cover.png",
+  "uploadDate": "2026-08-20",
+  "duration": "PT27.2S",
+  "contentUrl": "https://soccervortex.github.io/storecheck-shopify-catalog-audit/assets/promo/StoreCheck-TikTok-Master.mp4",
+  "embedUrl": "https://soccervortex.github.io/storecheck-shopify-catalog-audit/"
+}
+</script>
+
 ## 1. Product structure, handles, SKUs, and variants
 
 - Confirm titles and handles are present where required.
